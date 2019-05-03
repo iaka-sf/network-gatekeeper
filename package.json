@@ -1,0 +1,24 @@
+{
+  "name": "network-gatekeeper",
+  "version": "1.0.0",
+  "description": "Valerie Knight's Networking Gatekeeper Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaka-sf/network-gatekeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaka-sf/network-gatekeeper/issues"
+  },
+  "homepage": "https://github.com/iaka-sf/network-gatekeeper#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
