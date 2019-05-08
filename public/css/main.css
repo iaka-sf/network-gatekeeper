@@ -3753,3 +3753,12 @@ input, select, textarea {
 			}
 
 	}
+
+.Valerie {
+	border-radius: 75px;
+	float: right;
+}
+.txt {
+	text-align: center;
+	line-height: 1.5em;
+}
